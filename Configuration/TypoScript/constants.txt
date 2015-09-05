@@ -1,0 +1,5 @@
+plugin.tx_handsandfeet.view {
+	templateRootPaths.default = EXT:handsandfeet/Resources/Private/Templates/
+	partialRootPaths.default = EXT:handsandfeet/Resources/Private/Partials/
+	layoutRootPaths.default = EXT:handsandfeet/Resources/Private/Layouts/
+}
